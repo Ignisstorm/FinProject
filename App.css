@@ -1,0 +1,12 @@
+body{
+  background-color: #EFF1F5;
+}
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #5F779D !important;
+}
+h4{
+  color:#263C6C;
+  font-weight:bold;
+}
+
